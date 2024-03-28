@@ -1,4 +1,4 @@
-# Google Calendar Telegram Bot Integration
+# Integration of Google Calendar and Telegram
 This repository contains a Python script that integrates Google Calendar with a Telegram bot, allowing users to schedule events directly from their Telegram chats.
 
 ## Features
